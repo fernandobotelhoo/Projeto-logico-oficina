@@ -16,4 +16,4 @@ Foram elaboradas algumas consultas SQL para explorar a capacidade do banco de da
 
 - **Recuperações simples:** SELECT * FROM Cliente;
 - **Filtros:** SELECT * FROM OrdemServico WHERE status = 'Concluído';
--**Ordenação:** SELECT * FROM Peca ORDER BY ValorUnitario DESC;
+- **Ordenação:** SELECT * FROM Peca ORDER BY ValorUnitario DESC;
