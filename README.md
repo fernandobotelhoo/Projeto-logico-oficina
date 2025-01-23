@@ -14,6 +14,6 @@ Desenvolver um banco de dados lógico para gerenciar informações de uma oficin
 ## Consultas SQL 
 Foram elaboradas algumas consultas SQL para explorar a capacidade do banco de dados.
 
-Recuperações simples: SELECT * FROM Cliente;
-Filtros: SELECT * FROM OrdemServico WHERE status = 'Concluído';
-Ordenação: SELECT * FROM Peca ORDER BY ValorUnitario DESC;
+- **Recuperações simples:** SELECT * FROM Cliente;
+- **Filtros:** SELECT * FROM OrdemServico WHERE status = 'Concluído';
+-**Ordenação:** SELECT * FROM Peca ORDER BY ValorUnitario DESC;
